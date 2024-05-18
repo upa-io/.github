@@ -1,14 +1,14 @@
-# Bienvenido a UPAIO
+# Welcome to UPAIO
 
-¡Hola y bienvenido al repositorio oficial de la organización Open Source UPAIO en GitHub!
+Hello and welcome to the official repository of the Open Source organization UPAIO on GitHub!
 
-## ¿Quiénes Somos?
+## Who We Are
 
-UPAIO es una organización de GitHub orientada a brindar distintos repositorios de tipo pruebas de concepto (POC) sobre los temas más relevantes de cloud native. Nos dedicamos a explorar y demostrar las capacidades de tecnologías emergentes en el ámbito de la computación en la nube, proporcionando ejemplos prácticos y aplicables para la comunidad tecnológica. Nuestra misión es facilitar el aprendizaje y la adopción de soluciones cloud native a través de proyectos innovadores y de alta calidad.
+UPAIO is a GitHub organization focused on providing various proof-of-concept (POC) repositories on the most relevant cloud-native topics. We are dedicated to exploring and demonstrating the capabilities of emerging technologies in the cloud computing field, offering practical and applicable examples for the tech community. Our mission is to facilitate the learning and adoption of cloud-native solutions through innovative and high-quality projects.
 
-## Repositorios
+## Repositories
 
-En nuestra organización, encontrarás una variedad de proyectos, incluyendo:
+In our organization, you will find a variety of projects, including:
 
 - [Chassis API Quarkus Java](https://github.com/upa-io/microservice-chassis-quarkus-java)
 - [Chassis API FastAPI Python](https://github.com/upa-io/py-microservice-poc)
