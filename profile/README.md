@@ -4,7 +4,7 @@
 
 ## ¿Quiénes Somos?
 
-UPAIO es una organización dedicada a impulsar el desarrollo de software innovador y soluciones tecnológicas de alta calidad. Nos apasiona la tecnología y nos comprometemos a crear herramientas y aplicaciones que hagan la vida más fácil y eficiente.
+UPAIO es una organización de GitHub orientada a brindar distintos repositorios de tipo pruebas de concepto (POC) sobre los temas más relevantes de cloud native. Nos dedicamos a explorar y demostrar las capacidades de tecnologías emergentes en el ámbito de la computación en la nube, proporcionando ejemplos prácticos y aplicables para la comunidad tecnológica. Nuestra misión es facilitar el aprendizaje y la adopción de soluciones cloud native a través de proyectos innovadores y de alta calidad.
 
 ## Repositorios
 
