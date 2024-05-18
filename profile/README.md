@@ -1,10 +1,10 @@
-# Bienvenido a Upaio
+# Bienvenido a UPAIO
 
-¡Hola y bienvenido al repositorio oficial de la organización Open Source Upaio en GitHub!
+¡Hola y bienvenido al repositorio oficial de la organización Open Source UPAIO en GitHub!
 
 ## ¿Quiénes Somos?
 
-Upaio es una organización dedicada a impulsar el desarrollo de software innovador y soluciones tecnológicas de alta calidad. Nos apasiona la tecnología y nos comprometemos a crear herramientas y aplicaciones que hagan la vida más fácil y eficiente.
+UPAIO es una organización dedicada a impulsar el desarrollo de software innovador y soluciones tecnológicas de alta calidad. Nos apasiona la tecnología y nos comprometemos a crear herramientas y aplicaciones que hagan la vida más fácil y eficiente.
 
 ## Repositorios
 
